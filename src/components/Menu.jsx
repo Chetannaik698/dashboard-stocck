@@ -20,7 +20,7 @@ const Menu = () => {
     localStorage.removeItem("user"); 
 
     // Redirect to login project
-    window.location.href = "http://localhost:5173/";
+    window.location.href = "https://stockstalluicom.netlify.app/";
   };
 
   const menuClass = "menu";
